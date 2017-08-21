@@ -1,6 +1,5 @@
-Yii 2 Basic Project Template
+基于YII2.0的电子商城
 ============================
-*基于YII2.0的电子商城*
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
